@@ -11,6 +11,6 @@
 
 For further assistance, please contact us at:
 
-- **Email**: [https://mugordag.github.io/Privacy-Policy/support](mailto:mbgordag@icloud.com)
+- **Email**: mbgordag@icloud.com
 
 We aim to respond within 24-48 hours.
